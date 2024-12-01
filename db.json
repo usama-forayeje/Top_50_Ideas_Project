@@ -1,0 +1,144 @@
+{
+  "ideas": [
+    {
+      "id": "1",
+      "content": "Create a mobile app for grocery shopping. \nIt will suggest items based on your past purchases. \nThe app will also provide healthy options and recipes. \nSmart categorization for easy shopping.",
+      "username": "john_doe",
+      "vote": "12",
+      "createdAt": "2024-12-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "content": "A platform for renting outdoor gear. \nReal-time gear availability and booking system. \nRental insurance for all equipment. \nFlexible pick-up and drop-off locations.",
+      "username": "jane_smith",
+      "vote": "8",
+      "createdAt": "2024-12-01T10:05:00Z"
+    },
+    {
+      "id": "3",
+      "content": "Build a pet care and grooming service app. \nSchedule home visits for pet grooming and care. \nProvides tips and tutorials on pet care. \nConnects pet owners with nearby professionals.",
+      "username": "alice_wong",
+      "vote": "5",
+      "createdAt": "2024-12-01T10:10:00Z"
+    },
+    {
+      "id": "4",
+      "content": "A website for skill-based volunteer opportunities. \nConnects experts with NGOs and charities. \nFlexible volunteering hours and work from anywhere. \nTrack your contributions and impact.",
+      "username": "bob_jones",
+      "vote": "16",
+      "createdAt": "2024-12-01T10:15:00Z"
+    },
+    {
+      "id": "5",
+      "content": "Create a meal planning service for busy professionals. \nAI-powered recipe suggestions tailored to your preferences. \nAutomatic grocery list generation based on meal plans. \nNutrition tracking and health tips.",
+      "username": "susan_moore",
+      "vote": "9",
+      "createdAt": "2024-12-01T10:20:00Z"
+    },
+    {
+      "id": "6",
+      "content": "Develop an AI-based fitness tracker. \nPersonalized workout plans based on user progress. \nIntegrates with wearables for accurate tracking. \nMotivational insights to help you reach fitness goals.",
+      "username": "mike_brown",
+      "vote": "20",
+      "createdAt": "2024-12-01T10:25:00Z"
+    },
+    {
+      "id": "7",
+      "content": "A service for automatic home maintenance scheduling. \nGet reminders for essential home tasks like HVAC cleaning. \nConnect with certified professionals for home maintenance. \nManage and track all services from one app.",
+      "username": "lisa_white",
+      "vote": "13",
+      "createdAt": "2024-12-01T10:30:00Z"
+    },
+    {
+      "id": "8",
+      "content": "A digital platform for freelance project management. \nCollaborate in real-time with team members. \nTrack deadlines, milestones, and tasks efficiently. \nSecure payments and project deliveries.",
+      "username": "tom_clark",
+      "vote": "7",
+      "createdAt": "2024-12-01T10:35:00Z"
+    },
+    {
+      "id": "9",
+      "content": "Create a podcast that discusses mental health in the workplace. \nFeaturing expert interviews and real-world workplace stories. \nProviding actionable tips for mental wellness at work. \nFocused on creating a supportive work environment.",
+      "username": "emily_davis",
+      "vote": "11",
+      "createdAt": "2024-12-01T10:40:00Z"
+    },
+    {
+      "id": "10",
+      "content": "An online marketplace for locally produced art. \nShowcase and sell unique artworks from local artists. \nConnect artists with buyers through virtual gallery tours. \nPromote the significance of local craftsmanship.",
+      "username": "david_lee",
+      "vote": "14",
+      "createdAt": "2024-12-01T10:45:00Z"
+    },
+    {
+      "id": "11",
+      "content": "A language-learning app. \nPairs users with native speakers for cultural exchanges. \nIncludes interactive games and quizzes. \nProgress tracking and personalized learning goals.",
+      "username": "mark_green",
+      "vote": "18",
+      "createdAt": "2024-12-01T11:00:00Z"
+    },
+    {
+      "id": "12",
+      "content": "Develop a carbon footprint tracker. \nHelps users track daily activities' environmental impact. \nOffers tips to reduce carbon footprint. \nCompares personal data with global averages.",
+      "username": "anna_brown",
+      "vote": "22",
+      "createdAt": "2024-12-01T11:05:00Z"
+    },
+    {
+      "id": "13",
+      "content": "A gaming platform with educational content. \nIntegrates learning into gaming experiences. \nSupports various subjects and age groups. \nHelps players learn new skills while having fun.",
+      "username": "james_wilson",
+      "vote": "15",
+      "createdAt": "2024-12-01T11:10:00Z"
+    },
+    {
+      "id": "14",
+      "content": "Create a platform for virtual cooking classes. \nLearn from renowned chefs in live sessions. \nRecipe cards and shopping lists available after class. \nExclusive cooking challenges and competitions.",
+      "username": "sarah_clark",
+      "vote": "10",
+      "createdAt": "2024-12-01T11:15:00Z"
+    },
+    {
+      "id": "15",
+      "content": "An app for mental health support. \nProvides guided meditation and breathing exercises. \nLive counselors available for support. \nDaily mental health tips and wellness trackers.",
+      "username": "paul_martin",
+      "vote": "19",
+      "createdAt": "2024-12-01T11:20:00Z"
+    },
+    {
+      "id": "16",
+      "content": "Build a subscription box service. \nEco-friendly products and sustainability tips in each box. \nMonthly themes like zero waste or clean beauty. \nHelps users adopt a more sustainable lifestyle.",
+      "username": "emma_davis",
+      "vote": "9",
+      "createdAt": "2024-12-01T11:25:00Z"
+    },
+    {
+      "id": "17",
+      "content": "A digital guide for backpackers. \nReal-time location-based travel tips and recommendations. \nEmergency services and local contacts available. \nBuild your own travel itinerary with a community.",
+      "username": "harry_potter",
+      "vote": "14",
+      "createdAt": "2024-12-01T11:30:00Z"
+    },
+    {
+      "id": "18",
+      "content": "Create an app for sharing and reviewing books. \nConnect with local communities for book swaps and discussions. \nTrack your reading progress and get book recommendations. \nCreate personal libraries and share your reviews.",
+      "username": "ronald_weasley",
+      "vote": "17",
+      "createdAt": "2024-12-01T11:35:00Z"
+    },
+    {
+      "id": "19",
+      "content": "A platform for music tutors and students. \nFind tutors based on skill, genre, and teaching style. \nTrack your lessons and progress over time. \nConnect with local or online teachers easily.",
+      "username": "hermione_granger",
+      "vote": "12",
+      "createdAt": "2024-12-01T11:40:00Z"
+    },
+    {
+      "id": "20",
+      "content": "Build a tool for managing cryptocurrency investments. \nTrack portfolio performance with real-time data. \nSet up automated buy/sell notifications. \nAnalyze trends and compare with other investors.",
+      "username": "draco_malfoy",
+      "vote": "20",
+      "createdAt": "2024-12-01T11:45:00Z"
+    }
+  ]
+}

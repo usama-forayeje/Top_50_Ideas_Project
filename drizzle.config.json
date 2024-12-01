@@ -1,0 +1,12 @@
+
+
+{
+    "dialect": "postgresql",
+    "driver": "pg",
+    "dbCredentials": {
+      "connectionString": "postgresql://neondb_owner:ImZV5H6ikNvb@ep-snowy-art-a5x9zhbr.us-east-2.aws.neon.tech/top-50-ideas-project?sslmode=require"
+    },
+    "out": "./migrations",
+    "schema": "./schema.ts"
+  }
+  
